@@ -1,0 +1,16 @@
+*{
+    margin: 10;
+    padding: 25px;
+}
+ 
+
+body{
+    background-image:url("images/images.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+p, h3{
+    color: white;
+}
